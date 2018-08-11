@@ -1,0 +1,22 @@
+{
+  "name": "node-back-end",
+  "version": "1.0.0",
+  "description": "Node.js Restful Api ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrkevinsmithdesign/Node-Back-End.git"
+  },
+  "author": "Kevin Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrkevinsmithdesign/Node-Back-End/issues"
+  },
+  "homepage": "https://github.com/mrkevinsmithdesign/Node-Back-End#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
